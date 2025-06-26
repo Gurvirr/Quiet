@@ -1,17 +1,23 @@
+@font-face {
+  font-family: 'PPSupplyMono';
+  src: url('../../assets/PPSupplyMono-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 * {
-  font-family: "Geist Mono", monospace;
+  font-family: "PPSupplyMono";
 }
 
 body {
-  margin: 0;
-  padding: 20px;
-  background-color: #0a0a0a;
+  margin: 0px;
+  padding: 16px;
+  background-color: rgba(10, 10, 10, 0.9);
   color: #ffffff;
-  line-height: 1.5;
 }
 
 h1 {
-  font-weight: 500;
-  font-size: 2rem;
-  margin-bottom: 1rem;
+  margin: 0px;
+  font-weight: 100;
+  font-size: 1.5rem;
 }
