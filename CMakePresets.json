@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "qt-release",
+      "hidden": false,
+      "generator": "MinGW Makefiles",
+      "binaryDir": "${sourceDir}/build",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_C_COMPILER": "C:/Qt/6.9.1/mingw_64/bin/gcc.exe",
+        "CMAKE_CXX_COMPILER": "C:/Qt/6.9.1/mingw_64/bin/g++.exe"
+      }
+    }
+  ]
+}
