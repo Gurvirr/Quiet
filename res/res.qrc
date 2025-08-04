@@ -1,5 +1,6 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="/">
-    <file>res/Quiet.png</file>
+    <file>Quiet.png</file>
+    <file>fonts/PPNeueMachina-PlainUltrabold.otf</file>
 </qresource>
 </RCC>
